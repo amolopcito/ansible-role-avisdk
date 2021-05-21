@@ -41,4 +41,5 @@ galaxy_info:
     - ubuntu
     - centos
     - debian
+    - alb
 dependencies: []
